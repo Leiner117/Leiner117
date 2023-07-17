@@ -2,13 +2,13 @@
 
 ``` Python
 about_me = {
-  description = "I am currently a student of Computer Engineering at TEC",
+  description: "I am currently a student of Computer Engineering at TEC",
 
-  programming_languages = [Python,Java],
+  programming_languages: [Python,Java],
 
-  learning = [Linux, Web, Databases],
+  learning: [Linux, Web, Databases],
 
-  soft_skills = [Adaptability,Communication,Teamwork]
+  soft_skills: [Adaptability,Communication,Teamwork]
   
   
   
