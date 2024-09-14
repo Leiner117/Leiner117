@@ -41,13 +41,20 @@
 <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" alt="markdown" width="40" height="40"/>
 </a>
-
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" alt="maven" width="40" height="40"/>
+<a href="https://astro.build" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Astro.svg" alt="Astro" width="40" height="40"/>
 </a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/>
+<a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+<a href="https://es.react.dev" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://unity.com/es" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="unity" width="40" height="40"/>
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
