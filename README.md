@@ -60,8 +60,5 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/>
 </a>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiner117&layout=compact&show_icons=true&theme=dracula&hide_border=true"
-</div>
 
 
